@@ -1,6 +1,6 @@
 # Olá, eu sou o Vinicius Cabral 👋
 
-Estudante de **Engenharia de Software** na **Universidade Positivo**[cite: 1], com formação técnica em Mecatrônica[cite: 1]. Sou apaixonado por tecnologia e focado em construir uma carreira sólida em **Inteligência Artificial** e **Desenvolvimento Full Stack**.
+Estudante de **Engenharia de Software** na **Universidade Positivo**, com formação técnica em Mecatrônica. Sou apaixonado por tecnologia e focado em construir uma carreira sólida em **Inteligência Artificial** e **Desenvolvimento Full Stack**.
 
 
 
